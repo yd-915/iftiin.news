@@ -83,7 +83,7 @@
     "yup": "^0.32.11"
   },
   "engines": {
-    "node": "14.17.0"
+    "node": "18.x"
   },
   "standard": {
     "parser": "@babel/eslint-parser",
